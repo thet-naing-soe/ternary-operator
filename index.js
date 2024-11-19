@@ -1,4 +1,4 @@
-const exerciseTimeMins = 70;
+const exerciseTimeMins = 77;
 
 const message =
   exerciseTimeMins < 30
